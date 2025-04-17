@@ -1,0 +1,33 @@
+{
+    "name": "@types/xml-crypto",
+    "version": "1.4.6",
+    "description": "TypeScript definitions for xml-crypto",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/xml-crypto",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Eric Heikes",
+            "githubUsername": "eheikes",
+            "url": "https://github.com/eheikes"
+        },
+        {
+            "name": "Max Chehab",
+            "githubUsername": "maxchehab",
+            "url": "https://github.com/maxchehab"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/xml-crypto"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/node": "*",
+        "xpath": "0.0.27"
+    },
+    "typesPublisherContentHash": "cedab26950cc267f9a0f26c5db9ccb207f78c9b51f01bb3d01dacf6289bbfb18",
+    "typeScriptVersion": "4.5"
+}

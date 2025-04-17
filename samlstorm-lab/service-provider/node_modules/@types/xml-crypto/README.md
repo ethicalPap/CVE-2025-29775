@@ -1,0 +1,15 @@
+# Installation
+> `npm install --save @types/xml-crypto`
+
+# Summary
+This package contains type definitions for xml-crypto (https://github.com/yaronn/xml-crypto#readme).
+
+# Details
+Files were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/xml-crypto.
+
+### Additional Details
+ * Last updated: Mon, 20 Nov 2023 23:36:24 GMT
+ * Dependencies: [@types/node](https://npmjs.com/package/@types/node), [xpath](https://npmjs.com/package/xpath)
+
+# Credits
+These definitions were written by [Eric Heikes](https://github.com/eheikes), and [Max Chehab](https://github.com/maxchehab).
